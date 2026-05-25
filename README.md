@@ -30,7 +30,7 @@ Building scalable, maintainable backend applications.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,postgres,datadog,aws,githubactions,jest,git,vscode" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,postgres,vscode" />
 
 </p>
 
