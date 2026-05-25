@@ -58,35 +58,15 @@ Building scalable, maintainable backend applications.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=donaldmiranda&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=donaldmiranda&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/donaldmiranda" target="blank">
+<a href="https://www.linkedin.com/in/donaldmiranda" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:donaldmiranda@linkefinance.com">
+<a href="mailto:donald.miranda@linkefinance.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
