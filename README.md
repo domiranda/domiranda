@@ -28,7 +28,7 @@ APIs • Fintech Integrations • Backend Systems
 
 Backend Developer currently working at **Linker Finance**, building fintech solutions, banking integrations, and scalable backend services.
 
-Focused on API development, authentication flows, KYC/KYB integrations, cloud-based architectures, and secure financial systems.
+Focused on API development, authentication flows, KYC/KYB integrations, and secure financial systems.
 
 Experienced working with third-party integrations, and performance-oriented backend solutions.
 
