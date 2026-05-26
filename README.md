@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/domiranda/domiranda/main/assets/banner.webp" width="100%" />
+  <img src="https://raw.githubusercontent.com/domiranda/domiranda/main/assets/banner.png" width="100%" />
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@ APIs • Fintech Integrations • Backend Systems
 
 # 🚀 About Me
 
-Backend Developer currently working at **Linker Finance**, building fintech solutions, banking integrations, and scalable backend services.
+Backend Developer currently working at **Linker Finance**, building fintech solutions, banking integrations, and backend services.
 
 Focused on API development, authentication flows, KYC/KYB integrations, and secure financial systems.
 
@@ -53,20 +53,6 @@ TypeScript • Ruby on Rails
 
 </td>
 
-<td align="center" width="25%">
-
-### Frontend
-
-<p>
-  <img height="45" src="https://skillicons.dev/icons?i=react,html,css,jquery" />
-</p>
-
-React • HTML  
-CSS • jQuery
-
-</td>
-
-<td align="center" width="25%">
 
 ### Databases
 
@@ -110,7 +96,6 @@ Working on fintech infrastructure, banking integrations, financial workflows, an
 - KYC / KYB workflows
 - Financial integrations
 - Authentication & security
-- Distributed backend services
 - Performance optimization
 - REST APIs
 
@@ -182,7 +167,7 @@ Working on fintech infrastructure, banking integrations, financial workflows, an
 | Monitoring | Analytics | Development |
 |---|---|---|
 | Datadog | Google Analytics | Postman |
-| AWS CloudWatch | Google Tag Manager | GitHub |
+| AWS | Google Tag Manager | GitHub |
 
 </div>
 
@@ -196,8 +181,6 @@ Working on fintech infrastructure, banking integrations, financial workflows, an
 ✔ Banking Workflows
 ✔ Authentication & Authorization
 ✔ Redis Caching Strategies
-✔ Backend Architecture
-✔ Distributed Services
 ✔ Third-Party Integrations
 ```
 
@@ -209,8 +192,6 @@ Working on fintech infrastructure, banking integrations, financial workflows, an
 - Queue Processing
 - Financial Infrastructure
 - System Scalability
-- Distributed Systems
-- Event-Driven Architectures
 
 ---
 
