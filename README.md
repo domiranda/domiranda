@@ -3,19 +3,22 @@
 </p>
 
 <div align="center">
-  
-### Backend Developer
 
-APIs • Fintech Integrations • Backend Systems
+### Backend Engineer
+
+Fintech • APIs  • Backend Systems
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fintech-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently-Linker_Finance-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fintech-Developer-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API_Integrations-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/KYC%20%2F%20KYB-16A34A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=domiranda&style=flat-square&color=0A66C2" />
 </p>
 
 </div>
@@ -24,11 +27,15 @@ APIs • Fintech Integrations • Backend Systems
 
 # 🚀 About Me
 
-Backend Developer currently working at **Linker Finance**, building fintech solutions, banking integrations, and backend services.
+Backend Engineer currently working at **Linker Finance**, building fintech infrastructure, banking integrations, and secure backend services.
 
-Focused on API development, authentication flows, KYC/KYB integrations, and secure financial systems.
-
-Experienced working with third-party integrations, distributed backend services, and performance-oriented backend solutions.
+Focused on:
+- API architecture
+- Authentication & authorization
+- KYC / KYB workflows
+- Financial integrations
+- Distributed backend systems
+- Performance-oriented solutions
 
 ---
 
@@ -36,48 +43,23 @@ Experienced working with third-party integrations, distributed backend services,
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
 ### Backend
 
 <p>
   <img height="45" src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,ruby,rails,php" />
 </p>
 
-NestJS • Node.js  
-TypeScript • Ruby on Rails
-
-</td>
-
-
-### Databases
+### Databases & Cache
 
 <p>
   <img height="45" src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
 </p>
 
-MySQL • PostgreSQL  
-Redis
-
-</td>
-
-<td align="center" width="25%">
-
-### Cloud & Tools
+### Others
 
 <p>
   <img height="45" src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
 </p>
-
-AWS • Docker  
-GitHub • Postman
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -85,17 +67,19 @@ GitHub • Postman
 
 # 💼 Current Experience
 
-## Backend Developer @ Linker Finance
+## Backend Engineer @ Linker Finance
 
-Working on fintech infrastructure, banking integrations, financial workflows, and scalable backend services.
+Working on fintech infrastructure, banking integrations, and scalable backend services.
 
 ### Main Areas
+
 - Banking APIs
-- KYC / KYB workflows
-- Financial integrations
+- Financial workflows
+- KYC / KYB integrations
 - Authentication & security
-- Performance optimization
 - REST APIs
+- Performance optimization
+- Third-party integrations
 
 ---
 
@@ -103,29 +87,12 @@ Working on fintech infrastructure, banking integrations, financial workflows, an
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Banking & Payments
-
-- [Galileo](https://www.galileo-ft.com/)
-- [Unit](https://www.unit.co/)
-- [Fiserv](https://www.fiserv.com/)
-- [Treasury Prime](https://www.treasuryprime.com/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏛️ Financial Data
-
-- [Plaid](https://plaid.com/)
-- [MX](https://www.mx.com/)
-
-</td>
-</tr>
-</table>
+| Banking & Payments | Financial Data |
+|---|---|
+| [Galileo](https://www.galileo-ft.com/) | [Plaid](https://plaid.com/) |
+| [Unit](https://www.unit.co/) | [MX](https://www.mx.com/) |
+| [Fiserv](https://www.fiserv.com/) | |
+| [Treasury Prime](https://www.treasuryprime.com/) | |
 
 </div>
 
@@ -145,8 +112,8 @@ Working on fintech infrastructure, banking integrations, financial workflows, an
 | Service | Purpose |
 |---|---|
 | [SendGrid](https://sendgrid.com/) | Transactional and marketing emails |
-| [Postmark](https://postmarkapp.com/) | Fast and reliable transactional email delivery |
-| [OneSignal](https://onesignal.com/) | Push notifications and customer messaging |
+| [Postmark](https://postmarkapp.com/) | Transactional email delivery |
+| [OneSignal](https://onesignal.com/) | Push notifications and messaging |
 
 ---
 
@@ -171,7 +138,7 @@ Working on fintech infrastructure, banking integrations, financial workflows, an
 
 ---
 
-# ⚡ Currently Working With
+# ⚡ Backend Focus
 
 ```txt
 ✔ REST APIs
@@ -180,29 +147,18 @@ Working on fintech infrastructure, banking integrations, financial workflows, an
 ✔ Authentication & Authorization
 ✔ Redis Caching Strategies
 ✔ Third-Party Integrations
+✔ Secure Financial Systems
 ```
 
 ---
 
-# 🧠 Backend Interests
+# 🧠 Engineering Interests
 
 - API Security
+- Distributed Systems
 - Queue Processing
 - Financial Infrastructure
 - System Scalability
-
----
-
-# 💼 Featured Expertise
-
-```txt
-✔ Banking Integrations
-✔ Payment Processing
-✔ KYC / KYB Workflows
-✔ API Security
-✔ Backend Architecture
-✔ Fintech Infrastructure
-```
 
 ---
 
