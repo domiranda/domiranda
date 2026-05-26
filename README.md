@@ -3,9 +3,7 @@
 </p>
 
 <div align="center">
-
-# Donald Miranda 👨‍💻
-
+  
 ### Backend Developer
 
 APIs • Fintech Integrations • Backend Systems
