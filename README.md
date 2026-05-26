@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/domiranda/domiranda/main/assets/banner.webp" width="100%" />
+</p>
+
 <div align="center">
 
 # Donald Miranda 👨‍💻
@@ -9,15 +13,11 @@ APIs • Fintech Integrations • Backend Systems
 <br/>
 
 <p>
-  <img height="45" src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,ruby,rails,php,react,mysql,postgres,redis,aws,docker,git,github" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fintech-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/API_Integrations-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/KYC%20%2F%20KYB-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fintech-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Integrations-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KYC%20%2F%20KYB-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 </div>
@@ -30,45 +30,82 @@ Backend Developer currently working at **Linker Finance**, building fintech solu
 
 Focused on API development, authentication flows, KYC/KYB integrations, and secure financial systems.
 
-Experienced working with third-party integrations, and performance-oriented backend solutions.
+Experienced working with third-party integrations, distributed backend services, and performance-oriented backend solutions.
 
 ---
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
 <table>
 <tr>
-<td valign="top" width="33%">
+<td align="center" width="25%">
 
 ### Backend
-- NestJS
-- Node.js
-- TypeScript
-- JavaScript
-- Ruby on Rails
+
+<p>
+  <img height="45" src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,ruby,rails,php" />
+</p>
+
+NestJS • Node.js  
+TypeScript • Ruby on Rails
 
 </td>
+
+<td align="center" width="25%">
+
+### Frontend
+
+<p>
+  <img height="45" src="https://skillicons.dev/icons?i=react,html,css,jquery" />
+</p>
+
+React • HTML  
+CSS • jQuery
+
+</td>
+
+<td align="center" width="25%">
+
+### Databases
+
+<p>
+  <img height="45" src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
+
+MySQL • PostgreSQL  
+Redis
+
+</td>
+
+<td align="center" width="25%">
 
 ### Cloud & Tools
-- AWS
-- Heroku
-- GitHub
-- Postman
-- Datadog
+
+<p>
+  <img height="45" src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
+</p>
+
+AWS • Docker  
+GitHub • Postman
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
 # 💼 Current Experience
 
-### Backend Developer @ Linker Finance
+## Backend Developer @ Linker Finance
 
 Working on fintech infrastructure, banking integrations, financial workflows, and scalable backend services.
 
-Main areas:
+### Main Areas
 - Banking APIs
 - KYC / KYB workflows
 - Financial integrations
@@ -81,11 +118,14 @@ Main areas:
 
 # 🏦 Fintech Integrations
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 💳 Banking & Payments
+
 - [Galileo](https://www.galileo-ft.com/)
 - [Unit](https://www.unit.co/)
 - [Fiserv](https://www.fiserv.com/)
@@ -96,12 +136,15 @@ Main areas:
 <td width="50%" valign="top">
 
 ### 🏛️ Financial Data
+
 - [Plaid](https://plaid.com/)
 - [MX](https://www.mx.com/)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -134,43 +177,40 @@ Main areas:
 
 # 📊 Monitoring, Analytics & Tools
 
-- [Datadog](https://www.datadoghq.com/)
-- [AWS](https://aws.amazon.com/)
-- [Postman](https://www.postman.com/)
-- [Google Tag Manager](https://tagmanager.google.com/)
-- [Google Analytics](https://analytics.google.com/)
+<div align="center">
 
----
+| Monitoring | Analytics | Development |
+|---|---|---|
+| Datadog | Google Analytics | Postman |
+| AWS CloudWatch | Google Tag Manager | GitHub |
 
-# 🗄️ Databases
+</div>
 
-### Relational Databases
-- MySQL
-- PostgreSQL
-
-### Cache & In-Memory
-- Redis
 ---
 
 # ⚡ Currently Working With
 
-- REST APIs
-- Fintech integrations
-- Banking workflows
-- Authentication & authorization
-- Redis caching strategies
-- Third-party integrations
-- Backend architecture
-- Scalable services
+```txt
+✔ REST APIs
+✔ Fintech Integrations
+✔ Banking Workflows
+✔ Authentication & Authorization
+✔ Redis Caching Strategies
+✔ Backend Architecture
+✔ Distributed Services
+✔ Third-Party Integrations
+```
 
 ---
 
 # 🧠 Backend Interests
 
-- API security
-- Queue processing
-- Financial infrastructure
-- System scalability
+- API Security
+- Queue Processing
+- Financial Infrastructure
+- System Scalability
+- Distributed Systems
+- Event-Driven Architectures
 
 ---
 
@@ -185,7 +225,6 @@ Main areas:
 ✔ Fintech Infrastructure
 ```
 
----
 ---
 
 # 🤝 Connect With Me
